@@ -17,11 +17,11 @@
 
 @var    color       button-bg               'Accent color'                      #ff7c68
 @var    color       fab-bg                  'FAB background color'              #ff7c68
-@var    color       bg-color-1              'Main background color'             #111111
-@var    color       bg-color-context        'Context menu background color'     #242424
-@var    color       bg-color-2              'Secondary background color'        #212121
-@var    color       bg-color-3              'Tertiary background color'         #363636
-@var    color       bg-color-4              'Quaternary background color'       #424242
+@var    color       bg-color-1              'Main background color'             #000000
+@var    color       bg-color-context        'Context menu background color'     #000000
+@var    color       bg-color-2              'Secondary background color'        #000000
+@var    color       bg-color-3              'Tertiary background color'         #000000
+@var    color       bg-color-4              'Quaternary background color'       #000000
 @var    color       message-select          'Selected message color'            #ff7c68
 
 @var    select      appbar-color            'App bar background color' {
